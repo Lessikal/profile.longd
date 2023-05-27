@@ -19,7 +19,7 @@ const HomePage = () => {
   return (
     <Fragment>
       <Helmet>
-        <title>Arnold Lessiyaho Portfolio@2023</title>
+        <title>Long D Portfolio@2023</title>
       </Helmet>
       <Header></Header>
       <FeaturedArea></FeaturedArea>

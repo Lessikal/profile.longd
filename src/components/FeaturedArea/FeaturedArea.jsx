@@ -48,9 +48,9 @@ const FeaturedArea = () => {
                   Hello, I Am
                 </h3>
                 <h2 className="font-bold text-[2.3rem] sm:text-[3rem] md:text-[3.5rem] lg:text-[4rem] xl:text-[5rem] font-Poppins text-white">
-                  Arnold
+                  Long
                   <span className="font-normal text-[2.3rem] sm:text-[3rem] md:text-[3.5rem] lg:text-[4rem] xl:text-[5rem] text-accent text-yellow font-Poppins">
-                    Lessiyaho
+                    D
                   </span>
                 </h2>
                 <h5 style={{fontSize: 40, color: "pink"}} className="md:justify-start justify-center font-bold text-[1rem] sm:text-[1.125rem] md:text-[1.25rem] font-Poppins text-white  flex items-center gap-2.5 tracking-[1px]">
